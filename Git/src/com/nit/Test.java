@@ -8,6 +8,8 @@ public class Test
 		int b=20;
 		int c=b/a;
 		System.out.println("Your result is "+c);
+		Syste m.out.println("Your result is "+(a+b));
+		
 		
 	}
 
