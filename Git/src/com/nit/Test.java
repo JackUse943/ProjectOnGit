@@ -9,9 +9,6 @@ public class Test
 		int c=b/a;
 		System.out.println("Your result is "+c);
 		System.out.println("Your result is "+(a+b));
-		System.out.println("==============================");
-		System.out.println("Abhishek is very much Chutiya Man");
-		System.out.println("Abhishek is very much Chutiya Man");
 		
 		
 		
